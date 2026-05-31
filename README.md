@@ -2,7 +2,7 @@ Hi, I’m Ina 🙋🏻‍♀️
 
 Founder & CEO of MATRY, the AI cofounder for solo founders.
 
-MATRY helps solo founders turn scattered work, follow-ups, and ideas into clear weekly execution.
+MATRY helps solo founders turn scattered work, follow-ups, and revenue goals into clear weekly execution.
 
 What I’m building
 - Business assessment
