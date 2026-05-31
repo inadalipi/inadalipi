@@ -18,7 +18,8 @@ Current focus
 - Testing with early users and founding members
 - Reviewing PRs, QA, product logic, user feedback, and backend milestones
 
-Why I’m building it
+My Why 
+
 I’m building MATRY from a pain I’ve lived myself as a founder/operator.
 
 Links
