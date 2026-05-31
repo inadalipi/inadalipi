@@ -1,4 +1,4 @@
-Hi, I’m Ina 👋 
+Hi, I’m Ina 🙋🏻‍♀️ 
 
 Founder & CEO of MATRY, the AI cofounder for solo founders.
 
