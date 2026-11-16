@@ -1,12 +1,10 @@
 Hi, I’m Ina 🙋🏻‍♀️ 
 
-Founder of MATRY LABS.
-
-I build human-centered software.
+I founded Matry Labs where I build human-centered software.
 
 Links
 
 - MATRY LABS: https://matrylabs.com
-- MATRY AI: https://matryai.com
-- TRACTIONAUT : https://tractionaut.com
-- PLUM SENDER : https://plumsender.com
+- Matry AI: https://matryai.com
+- Tractionaut : https://tractionaut.com
+- Plum Sender : https://plumsender.com
