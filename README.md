@@ -1,12 +1,12 @@
 Hi, I’m Ina 🙋🏻‍♀️ 
 
-Founder & CEO of MATRY, the AI cofounder for solo founders in the digital economy.
+Founder of MATRY LABS.
 
-I’m building MATRY from a pain I’ve lived myself as a freelancer and solo founder.
+I build human-centered software.
 
 Links
 
-- MATRY: https://matryai.com
-- Personal site: https://inadalipi.com
-- X: https://x.com/inadalipi
-- LinkedIn: https://www.linkedin.com/in/inadalipi/
+- MATRY LABS: https://matrylabs.com
+- MATRY AI: https://matryai.com
+- TRACTIONAUT : https://tractionaut.com
+- PLUM SENDER : https://plumsender.com
